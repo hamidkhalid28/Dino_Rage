@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Dangerous
+  - Smelly
+  - Fire
+  - MenuManager
+  - AdsManager
+  - GameState
+  - SocialManager
+  - SoundController
+  - SoundManager
+  - ConfirmPurchase
+  - ConfirmBirdPurchase
+  - LevelEndMenu
+  - OutOfCoins
+  - GamePlayCanvas
+  - MainMenu
+  - PlayerSelectionMenu
+  - BirdSelection
+  - TutorialCanvas
+  - SocialSharing
+  - Settings
+  - Prop
+  - NavigationPaths
+  - Prey
+  - House
+  - Tree
+  - Statue
+  - Hud
+  - ScoreNum
+  - EatBtn
+  - Joystick
+  - Leaderboard
+  - Loading
+  - AdNotAvailable
+  - InternetNotConnected
+  - VideoAdConfirmation
+  - PostWindow
+  - EffectsController
+  - PoliceMan
+  - soldier
+  - Bullet
+  - AimPoint
+  - SpawnPositions
+  - PowerUpSpawnPositions
+  - Revive
+  - Friendly
+  - LockedPlayerPopup
+  - Boundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Menu Items
+  - Environment
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1093696345
+    locked: 0
+  - name: Foreground
+    uniqueID: 1859086223
+    locked: 0
+  - name: Characters
+    uniqueID: 3940858523
+    locked: 0
+  - name: UI
+    uniqueID: 771169021
+    locked: 0
